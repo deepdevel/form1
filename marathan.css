@@ -1,0 +1,49 @@
+body{
+    background-color: #fff1e6;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    text:#141C3A 
+   
+
+   
+}
+form{
+     margin-left: 29px; 
+    border:4px,solid,rgb(127, 8, 173);
+   
+}
+.flabel{
+    margin-left: 55px;
+    
+
+}
+
+    
+    /* margin-top:5%;
+    margin-bottom:20%;
+    margin-left: 40%;
+    margin-right: 40;
+     */
+     #form1{
+        border: red 2px solid;
+        /* margin-top:0px ; */
+        /* margin-bottom: 0px; */
+        margin-left: 60px;
+        margin-right: 970px;
+    
+        padding-left: 63px;
+        padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+
+h3{
+    background-color:rgb(30, 30, 63);
+   
+}
+a{
+    color:white;
+}
+button{
+    margin-left: 18px;
+}
